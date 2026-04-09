@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+requests
+gradio==4.28.3
+ollama
+python-dotenv
